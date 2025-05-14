@@ -35,7 +35,7 @@ UAS_Farah-Nasywa_2208107010051/
 ### 1. Kloning repository
 
 ```bash
-git clone https://github.com/username/UAS_Farah-Nasywa_2208107010051.git
+git clone https://github.com/farahNasywa/UAS_Farah-Nasywa_2208107010051.git
 cd UAS_Farah-Nasywa_2208107010051
 ````
 
